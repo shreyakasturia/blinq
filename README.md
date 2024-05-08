@@ -1,6 +1,7 @@
 <body>
     <header>
         <h1>blinq</h1>
+        <img src="https://i.pinimg.com/736x/ba/06/a4/ba06a44e80c2986b4a3a7adf209606e7.jpg">
         <h2>About</h2>
     </header>
     <section>
